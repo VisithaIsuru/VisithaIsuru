@@ -3,7 +3,7 @@
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=VisithaIsuru" alt="https://twitter.com/VisithaIsuru" />
-	<img src="https://img.shields.io/twitter/follow/VisithaIsuru?label=Follow" alt=""></a>
+	<img src="https://img.shields.io/twitter/follow/Visitha_Isuru?label=Follow" alt=""></a>
 	<img src="https://img.shields.io/github/followers/VisithaIsuru?label=Follow&style=social" alt="Github" />
   
   <a href="https://www.linkedin.com/in/gamage-visitha-isuru/">
