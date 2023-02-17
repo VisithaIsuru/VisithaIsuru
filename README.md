@@ -80,7 +80,7 @@
 
 <p align="center">
     <a href="https://github.com/VisithaIsuru/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Gamage Visitha Isuru's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=VisithaIsuru&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Gamage Visitha Isuru's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=VisithaIsuru&theme=black-ice&hide_border=false&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -94,8 +94,9 @@
 <br/>
 <br/>
 
+	    
+<a href="https://github.com/VisithaIsuru/github-readme-activity-graph"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=VisithaIsuru&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/></a>
 
-<a href="https://github.com/VisithaIsuru/github-readme-activity-graph"><img alt="Gamage Visitha Isuru's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=VisithaIsuru&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
