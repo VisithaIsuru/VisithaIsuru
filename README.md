@@ -36,7 +36,7 @@
 
 - 👯 looking to collaborate on New Projects ☺
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](VisithaIsuru.github.io)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://VisithaIsuru.github.io)**
 
 - 📫 How to reach me **gamagevisuru@gmail.com**
 
