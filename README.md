@@ -19,7 +19,7 @@
 </p>
 
 <h5 align="center">
-  <code><a href="https://www.facebook.com/isuru.gamage.710" title="Facebook Profile"><img width="25px" height="25px"                                                                             src="https://github.com/VisithaIsuru/VisithaIsuru/blob/main/Images/facebook.png">Facebook</a></code>
+  <code><a href="https://web.facebook.com/visithaisuru/" title="Facebook Profile"><img width="25px" height="25px"                                                                             src="https://github.com/VisithaIsuru/VisithaIsuru/blob/main/Images/facebook.png">Facebook</a></code>
   <code><a href="https://www.instagram.com/" title="Instagram Profile"><img width="25px" height="25px" src="https://github.com/VisithaIsuru/VisithaIsuru/blob/main/Images/instagram.svg"> Instagram</a></code>
   <code><a href="https://www.linkedin.com/in/gamage-visitha-isuru//" title="LinkedIn Profile"><img width="25px" height="25px" src="https://github.com/VisithaIsuru/VisithaIsuru/blob/main/Images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.twitter.com/Visitha_Isuru" title="Twitter Profile"><img width="25px" height="25px" src="https://github.com/VisithaIsuru/VisithaIsuru/blob/main/Images/linkedin.svg"> Twitter</a></code>
