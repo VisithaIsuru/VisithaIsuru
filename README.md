@@ -138,7 +138,7 @@
 <br/>
 
 	    
-<a href="https://github.com/VisithaIsuru/github-readme-activity-graph"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=VisithaIsuru&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/></a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VisithaIsuru&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/></a>
 
 
 <br/>
